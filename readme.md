@@ -1,7 +1,5 @@
 ## **Laravel School Management System** 
 
-**LAVSMS** is developed for educational institutions like schools and colleges built on Laravel 8
-
 **SCREENSHOTS** 
 
 **Dashboard**
@@ -120,4 +118,3 @@ If you discover a security vulnerability within LAVSMS, please use pull request.
 - Library Resources/Study Materials Upload for Students
 
 ### **Contact [CJ INSPIRED]**
-- Phone : +2347068149559
