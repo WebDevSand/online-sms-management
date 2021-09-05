@@ -1,5 +1,5 @@
 ## **Laravel School Management System** 
- 
+  
 **SCREENSHOTS** 
 
 **Dashboard**
